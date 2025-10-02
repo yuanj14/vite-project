@@ -47,7 +47,7 @@ const paper = new dia.Paper({
       </p>
 
       <pre className="code-block">
-        <code>{codeExample}</code>
+        <code className="block">{codeExample}</code>
       </pre>
     </div>
   );
