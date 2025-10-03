@@ -4,7 +4,7 @@ import { useEffect } from 'react';
 import "../../css/text.css";
 import '../App.css';
 //  import {dia, shapes} from 'jointjs'
-import { ui } from 'jointjs-plus';
+import { ui } from 'joint-plus';
 
 
 export default function PaletteComponent() {

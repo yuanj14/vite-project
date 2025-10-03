@@ -1,4 +1,4 @@
-import { dia, shapes, ui } from 'jointjs-plus';
+import { dia, shapes, ui } from 'joint-plus';
 import { useEffect } from 'react';
 import "../../css/text.css";
 import '../App.css';

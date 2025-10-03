@@ -1,5 +1,5 @@
 import React from 'react'
-import APP from '../jointjs/demo/08-propertyedit'
+import APP from './features/Ports/scratch'
 export default function App() {
   return (
     <APP />
