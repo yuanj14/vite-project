@@ -1,6 +1,8 @@
-@import "../../../node_modules/joint-plus/joint-plus.css";
+/* @import "../../../node_modules/joint-plus/joint-plus.css"; */
+/* 导入 joint-plus 样式 */
+@import '@joint/plus/joint-plus.css';
 
-#paper {
+/* #paper {
     position: absolute;
     top: 0;
     right: 170px;
@@ -35,11 +37,11 @@
 }
 
 /* port styling */
-.available-magnet {
+/* .available-magnet {
     fill: #5DA271;
-}
+} */
 
 /* element styling */
-.available-cell rect {
+/* .available-cell rect {
     stroke-dasharray: 5, 2;
-}
+}  */
